@@ -165,7 +165,7 @@
                 </li>
                 <li class="header-bottom__item"><a href="production.php" class="header-bottom__link">производство</a>
                 </li>
-                <li class="header-bottom__item"><a href="#" class="header-bottom__link">где купить</a></li>
+                <li class="header-bottom__item"><a href="where-buy.php" class="header-bottom__link">где купить</a></li>
                 <li class="header-bottom__item">
                   <a href="#" class="header-bottom__link header-bottom__link--drop">
                     библиотека

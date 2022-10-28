@@ -270,4 +270,18 @@ function countProduct() {
   }
 }
 
+// Яндекс карта
+renderMap();
+function renderMap() {
+  const mapWrapper = document.querySelector('.where-buy__map-wrapper');
 
+  if (mapWrapper) {
+    ymaps.ready(init);
+    function init() {
+      let map = new ymaps.Map('map', {
+        center: [55.93768627309534, 37.307784846548074],
+        zoom: 17
+      });
+    }
+  }
+}
