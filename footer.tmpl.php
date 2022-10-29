@@ -64,7 +64,7 @@
             </li>
             <li class="footer__item">
               <h2 class="footer__title">
-                <a href="#" class="footer__title-link">контакты</a>
+                <a href="contacts.php" class="footer__title-link">контакты</a>
               </h2>
             </li>
         </div>
