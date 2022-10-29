@@ -59,7 +59,7 @@
             </li>
             <li class="footer__item">
               <h2 class="footer__title">
-                <a href="#" class="footer__title-link">оптовикам</a>
+                <a href="wholesalers.php" class="footer__title-link">оптовикам</a>
               </h2>
             </li>
             <li class="footer__item">

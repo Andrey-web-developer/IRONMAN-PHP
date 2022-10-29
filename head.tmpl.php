@@ -69,7 +69,7 @@
                 <a class="header-top__link" href="rules.php">доставка</a>
               </li>
               <li class="header-top__item">
-                <a class="header-top__link" href="#">оптовикам</a>
+                <a class="header-top__link" href="wholesalers.php">оптовикам</a>
               </li>
               <li class="header-top__item">
                 <a class="header-top__link" href="contacts.php">контакты</a>
@@ -197,7 +197,7 @@
                   </ul>
                 </li>
                 <li class="header-bottom__item d-lg-none"><a href="rules.php" class="header-bottom__link">доставка</a></li>
-                <li class="header-bottom__item d-lg-none"><a href="#" class="header-bottom__link">оптовикам</a></li>
+                <li class="header-bottom__item d-lg-none"><a href="wholesalers.php" class="header-bottom__link">оптовикам</a></li>
                 <li class="header-bottom__item d-lg-none"><a href="contacts.php" class="header-bottom__link">контакты</a></li>
               </ul>
             </nav>
