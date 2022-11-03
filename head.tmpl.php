@@ -88,7 +88,7 @@
               </a>
             </li>
             <li class="header-top__group-item">
-              <a class="header-top__group-link" href="#">
+              <a class="header-top__group-link" href="basket.php">
                 <svg width="25" height="26" viewBox="0 0 25 26" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M21.9916 6.98082H2.86903L1 25H23.8561L21.9916 6.98082Z" stroke-miterlimit="10" />
                   <path d="M16.4835 11.1558V5.05329C16.4835 2.81498 14.6686 1 12.4302 1C10.1919 1 8.37695 2.81498 8.37695 5.05329V11.1558" stroke-miterlimit="10" />
