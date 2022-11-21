@@ -19,65 +19,63 @@
       <div class="row">
         <div class="col-lg-6">
           <h3 class="where-buy__content-title">В сетях супермаркетов</h3>
-          <ul class="where-buy__list list-reset">
-            <div class="row">
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/auchan.png" alt="Ашан" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/magnit.png" alt="Магнит" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/perekrestok.png" alt="Перекрёсток" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/spar.png" alt="Spar" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/decathlon.png" alt="Decathlon" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/lenta.png" alt="Лента" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/fixprice.png" alt="Fixprice" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-              <li class="col-6 where-buy__item">
-                <a href="#" class="where-buy__link">
-                  <div class="where-buy__inner">
-                    <img src="images/where-buy/globus.png" alt="Globus" class="where-buy__img">
-                  </div>
-                </a>
-              </li>
-            </div>
+          <ul class="row where-buy__list">
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/auchan.png" alt="Ашан" class="where-buy__img">
+                </div>
+              </a>
+            </li>
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/magnit.png" alt="Магнит" class="where-buy__img">
+                </div>
+              </a>
+            </li>
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/perekrestok.png" alt="Перекрёсток" class="where-buy__img">
+                </div>
+              </a>
+            </li>
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/spar.png" alt="Spar" class="where-buy__img">
+                </div>
+              </a>
+            </li>
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/decathlon.png" alt="Decathlon" class="where-buy__img">
+                </div>
+              </a>
+            </li>
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/lenta.png" alt="Лента" class="where-buy__img">
+                </div>
+              </a>
+            </li>
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/fixprice.png" alt="Fixprice" class="where-buy__img">
+                </div>
+              </a>
+            </li>
+            <li class="col-6 where-buy__item">
+              <a href="#" class="where-buy__link">
+                <div class="where-buy__inner">
+                  <img src="images/where-buy/globus.png" alt="Globus" class="where-buy__img">
+                </div>
+              </a>
+            </li>
           </ul>
         </div>
         <div class="col-lg-6">
@@ -92,7 +90,7 @@
 </main>
 <?php include 'footer.tmpl.php' ?>
 <script src="libs/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="https://api-maps.yandex.ru/2.1/?apikey=ваш API-ключ&lang=ru_RU"></script>
+<script src="https://api-maps.yandex.ru/2.1/?apikey=вашAPI-ключ&lang=ru_RU"></script>
 <script src="js/script.js"></script>
 </body>
 

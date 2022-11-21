@@ -264,43 +264,33 @@
                     <div class="product-card__rating-wrapper">
                       <label class="product-card__rating-label">
                         <input class="product-card__rating-radio" type="radio" name="rating" value="1" aria-label="Одна звезда">
-                        <div class="product-card__rating-star">
-                          <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
-                          </svg>
-                        </div>
+                        <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
+                        </svg>
                       </label>
                       <label class="product-card__rating-label">
                         <input class="product-card__rating-radio" type="radio" name="rating" value="2" aria-label="Две звезды">
-                        <div class="product-card__rating-star">
-                          <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
-                          </svg>
-                        </div>
+                        <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
+                        </svg>
                       </label>
                       <label class="product-card__rating-label">
                         <input class="product-card__rating-radio" type="radio" name="rating" value="3" aria-label="Три звезды">
-                        <div class="product-card__rating-star">
-                          <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
-                          </svg>
-                        </div>
+                        <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
+                        </svg>
                       </label>
                       <label class="product-card__rating-label">
                         <input class="product-card__rating-radio" type="radio" name="rating" value="4" aria-label="Четыре звезды">
-                        <div class="product-card__rating-star">
-                          <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
-                          </svg>
-                        </div>
+                        <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
+                        </svg>
                       </label>
                       <label class="product-card__rating-label">
                         <input class="product-card__rating-radio" type="radio" name="rating" value="5" aria-label="Пять звёзд">
-                        <div class="product-card__rating-star">
-                          <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
-                          </svg>
-                        </div>
+                        <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+                          <path d="M7.85532 7.23327L8.11537 7.19536L8.23161 6.95967L11.1609 1.02042C11.5041 0.32513 12.4954 0.327823 12.8393 1.02076C12.8394 1.02089 12.8394 1.02102 12.8395 1.02116L15.7684 6.95967L15.8846 7.19536L16.1447 7.23327L22.6987 8.18878L22.6991 8.18884C23.4637 8.29974 23.7716 9.24421 23.216 9.78512L23.2159 9.78526L18.4742 14.4058L18.2859 14.5894L18.3304 14.8486L19.4518 21.3753C19.5827 22.14 18.7759 22.7178 18.0959 22.3602L18.0958 22.3602L12.2326 19.2783L12 19.156L11.7674 19.2783L5.9042 22.3602L5.90263 22.361C5.22607 22.7197 4.41682 22.1431 4.54818 21.3753L5.66961 14.8486L5.71415 14.5894L5.52578 14.4058L0.784111 9.78526L0.783969 9.78512C0.228443 9.24421 0.536271 8.29974 1.30095 8.18884L1.30131 8.18878L7.85532 7.23327Z" stroke="#FB9952" />
+                        </svg>
                       </label>
                     </div>
                     <a href="#" class="product-card__reviews">
@@ -375,89 +365,83 @@
               <h2 class="product-card__title-products">Вместе с этим товаром покупают</h2>
             </div>
             <article class="cards">
-              <div class="row">
-                <div class="col">
-                  <ul class="cards__list list-reset">
-                    <div class="row">
-                      <div class="col-sm-6 col-lg-4 cards__wrapper">
-                        <li class="cards__item">
-                          <a href="#" class="cards__img-link">
-                            <span class="cards__sale">sale</span>
-                            <img src="images/index/products-1.png" alt="Фото товара" class="cards__img">
-                          </a>
-                          <div class="cards__content">
-                            <a href="#" class="cards__title-link">
-                              <h3 class="cards__title">IM F80 500g шокладный напиток протеин</h3>
-                            </a>
-                            <div class="d-flex align-items-center justify-content-between cards__inner">
-                              <div class="d-flex align-items-center cards__price">
-                                <span class="cards__price-now">559 ₽</span>
-                                <span class="cards__price-old">900 ₽</span>
-                              </div>
-                              <button class="cards__basket btn-reset">
-                                <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M22.9916 6.98096H3.86903L2 25.0001H24.8561L22.9916 6.98096Z" stroke-width="2" stroke-miterlimit="10" />
-                                  <path d="M17.4835 11.1558V5.05329C17.4835 2.81498 15.6686 1 13.4302 1C11.1919 1 9.37695 2.81498 9.37695 5.05329V11.1558" stroke-width="2" stroke-miterlimit="10" />
-                                </svg>
-                              </button>
-                            </div>
-                          </div>
-                        </li>
-                      </div>
-                      <div class="col-sm-6 col-lg-4 cards__wrapper">
-                        <li class="cards__item">
-                          <a href="#" class="cards__img-link">
-                            <span class="cards__sale">sale</span>
-                            <img src="images/index/products-2.png" alt="Фото товара" class="cards__img">
-                          </a>
-                          <div class="cards__content">
-                            <a href="#" class="cards__title-link">
-                              <h3 class="cards__title">IM F80 500g шокладный напиток протеин</h3>
-                            </a>
-                            <div class="d-flex align-items-center justify-content-between cards__inner">
-                              <div class="d-flex align-items-center cards__price">
-                                <span class="cards__price-now">559 ₽</span>
-                                <span class="cards__price-old">900 ₽</span>
-                              </div>
-                              <button class="cards__basket btn-reset">
-                                <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M22.9916 6.98096H3.86903L2 25.0001H24.8561L22.9916 6.98096Z" stroke-width="2" stroke-miterlimit="10" />
-                                  <path d="M17.4835 11.1558V5.05329C17.4835 2.81498 15.6686 1 13.4302 1C11.1919 1 9.37695 2.81498 9.37695 5.05329V11.1558" stroke-width="2" stroke-miterlimit="10" />
-                                </svg>
-                              </button>
-                            </div>
-                          </div>
-                        </li>
-                      </div>
-                      <div class="col-sm-6 col-lg-4 cards__wrapper">
-                        <li class="cards__item">
-                          <a href="#" class="cards__img-link">
-                            <span class="cards__sale cards__sale--color">new</span>
-                            <img src="images/index/products-3.png" alt="Фото товара" class="cards__img">
-                          </a>
-                          <div class="cards__content">
-                            <a href="#" class="cards__title-link">
-                              <h3 class="cards__title">IM F80 500g шокладный напиток протеин</h3>
-                            </a>
-                            <div class="d-flex align-items-center justify-content-between cards__inner">
-                              <div class="d-flex align-items-center cards__price">
-                                <span class="cards__price-now">559 ₽</span>
-                                <span class="cards__price-old">900 ₽</span>
-                              </div>
-                              <button class="cards__basket btn-reset">
-                                <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                  <path d="M22.9916 6.98096H3.86903L2 25.0001H24.8561L22.9916 6.98096Z" stroke-width="2" stroke-miterlimit="10" />
-                                  <path d="M17.4835 11.1558V5.05329C17.4835 2.81498 15.6686 1 13.4302 1C11.1919 1 9.37695 2.81498 9.37695 5.05329V11.1558" stroke-width="2" stroke-miterlimit="10" />
-                                </svg>
-                              </button>
-                            </div>
-                          </div>
-                        </li>
+              <ul class="row cards__list">
+                <li class="col-sm-6 col-lg-4 cards__item">
+                  <div class="cards__wrapper">
+                    <a href="#" class="cards__img-link">
+                      <span class="cards__sale">sale</span>
+                      <img src="images/index/products-1.png" alt="Фото товара" class="cards__img">
+                    </a>
+                    <div class="cards__content">
+                      <a href="#" class="cards__title-link">
+                        <h3 class="cards__title">IM F80 500g шокладный напиток протеин</h3>
+                      </a>
+                      <div class="d-flex align-items-center justify-content-between cards__inner">
+                        <div class="d-flex align-items-center cards__price">
+                          <span class="cards__price-now">559 ₽</span>
+                          <span class="cards__price-old">900 ₽</span>
+                        </div>
+                        <button class="cards__basket btn-reset">
+                          <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22.9916 6.98096H3.86903L2 25.0001H24.8561L22.9916 6.98096Z" stroke-width="2" stroke-miterlimit="10" />
+                            <path d="M17.4835 11.1558V5.05329C17.4835 2.81498 15.6686 1 13.4302 1C11.1919 1 9.37695 2.81498 9.37695 5.05329V11.1558" stroke-width="2" stroke-miterlimit="10" />
+                          </svg>
+                        </button>
                       </div>
                     </div>
-                  </ul>
-                </div>
-              </div>
+                  </div>
+                </li>
+                <li class="col-sm-6 col-lg-4 cards__item">
+                  <div class="cards__wrapper">
+                    <a href="#" class="cards__img-link">
+                      <span class="cards__sale">sale</span>
+                      <img src="images/index/products-2.png" alt="Фото товара" class="cards__img">
+                    </a>
+                    <div class="cards__content">
+                      <a href="#" class="cards__title-link">
+                        <h3 class="cards__title">IM F80 500g шокладный напиток протеин</h3>
+                      </a>
+                      <div class="d-flex align-items-center justify-content-between cards__inner">
+                        <div class="d-flex align-items-center cards__price">
+                          <span class="cards__price-now">559 ₽</span>
+                          <span class="cards__price-old">900 ₽</span>
+                        </div>
+                        <button class="cards__basket btn-reset">
+                          <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22.9916 6.98096H3.86903L2 25.0001H24.8561L22.9916 6.98096Z" stroke-width="2" stroke-miterlimit="10" />
+                            <path d="M17.4835 11.1558V5.05329C17.4835 2.81498 15.6686 1 13.4302 1C11.1919 1 9.37695 2.81498 9.37695 5.05329V11.1558" stroke-width="2" stroke-miterlimit="10" />
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+                <li class="col-sm-6 col-lg-4 cards__item">
+                  <div class="cards__wrapper">
+                    <a href="#" class="cards__img-link">
+                      <span class="cards__sale cards__sale--color">new</span>
+                      <img src="images/index/products-3.png" alt="Фото товара" class="cards__img">
+                    </a>
+                    <div class="cards__content">
+                      <a href="#" class="cards__title-link">
+                        <h3 class="cards__title">IM F80 500g шокладный напиток протеин</h3>
+                      </a>
+                      <div class="d-flex align-items-center justify-content-between cards__inner">
+                        <div class="d-flex align-items-center cards__price">
+                          <span class="cards__price-now">559 ₽</span>
+                          <span class="cards__price-old">900 ₽</span>
+                        </div>
+                        <button class="cards__basket btn-reset">
+                          <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M22.9916 6.98096H3.86903L2 25.0001H24.8561L22.9916 6.98096Z" stroke-width="2" stroke-miterlimit="10" />
+                            <path d="M17.4835 11.1558V5.05329C17.4835 2.81498 15.6686 1 13.4302 1C11.1919 1 9.37695 2.81498 9.37695 5.05329V11.1558" stroke-width="2" stroke-miterlimit="10" />
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+              </ul>
             </article>
           </div>
         </div>

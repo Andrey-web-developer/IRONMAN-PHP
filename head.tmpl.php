@@ -196,7 +196,8 @@
                     <li class="header-bottom__sub-item"><a href="#" class="header-bottom__sub-link">форум</a></li>
                   </ul>
                 </li>
-                <li class="header-bottom__item d-lg-none"><a href="rules.php" class="header-bottom__link">доставка</a></li>
+                <li class="header-bottom__item d-lg-none"><a href="rules.php" class="header-bottom__link">доставка</a>
+                </li>
                 <li class="header-bottom__item d-lg-none"><a href="wholesalers.php" class="header-bottom__link">оптовикам</a></li>
                 <li class="header-bottom__item d-lg-none"><a href="contacts.php" class="header-bottom__link">контакты</a></li>
               </ul>

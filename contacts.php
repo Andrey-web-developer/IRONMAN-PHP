@@ -70,7 +70,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 mt-5 mt-lg-0">
           <form action="#" class="communication__form form">
             <fieldset class="form__list">
               <legend class="form__title form__title--contacts">Форма обратной связи</legend>

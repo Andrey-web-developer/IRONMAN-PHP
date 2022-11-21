@@ -218,57 +218,55 @@
                 <h2 class="tab__title">Система оплаты Яндекс.Касса</h2>
               </div>
             </div>
-            <ul class="tab-list list-reset">
-              <div class="row justify-content-between">
-                <li class="col-12 col-sm-3">
-                  <ul class="tab-sublist list-reset">
-                    <li class="tab-sublist__item">
-                      <h3 class="tab-sublist__title">Банковскими картами:</h3>
-                    </li>
-                    <li class="tab-sublist__item">Visa</li>
-                    <li class="tab-sublist__item">Mastercard</li>
-                    <li class="tab-sublist__item">Maestro</li>
-                    <li class="tab-sublist__item">Мир</li>
-                    <li class="tab-sublist__item">JCB</li>
-                  </ul>
-                </li>
-                <li class="col-12 col-sm-3">
-                  <ul class="tab-sublist list-reset">
-                    <li class="tab-sublist__item">
-                      <h3 class="tab-sublist__title">Электронными деньгами:</h3>
-                    </li>
-                    <li class="tab-sublist__item">Яндекс.Деньги</li>
-                    <li class="tab-sublist__item">WebMoney</li>
-                    <li class="tab-sublist__item">Qiwi Кошелёк</li>
-                  </ul>
-                </li>
-                <li class="col-12 col-sm-3">
-                  <ul class="tab-sublist list-reset">
-                    <li class="tab-sublist__item">
-                      <h3 class="tab-sublist__title">Интернет-банки:</h3>
-                    </li>
-                    <li class="tab-sublist__item">Сбербанк Онлайн</li>
-                    <li class="tab-sublist__item">Альфа-Клик</li>
-                    <li class="tab-sublist__item">Тинькофф</li>
-                  </ul>
-                </li>
-                <li class="col-12 col-lg-3">
-                  <ul class="tab-sublist list-reset">
-                    <li class="tab-sublist__item">
-                      <h3 class="tab-sublist__title">Наличными в терминалах, банкоматах, салонах связи:</h3>
-                    </li>
-                    <li class="tab-sublist__item">
-                      <p class="tab-sublist__text">
-                        Оплата по&nbsp;коду платежа в&nbsp;терминале, банкомате или кассе банка, а&nbsp;также
-                        в&nbsp;салонах связи и
-                        системах денежных переводов&nbsp;&mdash; везде, где принимают платежи в&nbsp;пользу
-                        Яндекс.Кассы
-                        или Яндекс.Денег.
-                      </p>
-                    </li>
-                  </ul>
-                </li>
-              </div>
+            <ul class="row tab-list">
+              <li class="col-12 col-sm-3">
+                <ul class="tab-sublist list-reset">
+                  <li class="tab-sublist__item">
+                    <h3 class="tab-sublist__title">Банковскими картами:</h3>
+                  </li>
+                  <li class="tab-sublist__item">Visa</li>
+                  <li class="tab-sublist__item">Mastercard</li>
+                  <li class="tab-sublist__item">Maestro</li>
+                  <li class="tab-sublist__item">Мир</li>
+                  <li class="tab-sublist__item">JCB</li>
+                </ul>
+              </li>
+              <li class="col-12 col-sm-3">
+                <ul class="tab-sublist list-reset">
+                  <li class="tab-sublist__item">
+                    <h3 class="tab-sublist__title">Электронными деньгами:</h3>
+                  </li>
+                  <li class="tab-sublist__item">Яндекс.Деньги</li>
+                  <li class="tab-sublist__item">WebMoney</li>
+                  <li class="tab-sublist__item">Qiwi Кошелёк</li>
+                </ul>
+              </li>
+              <li class="col-12 col-sm-3">
+                <ul class="tab-sublist list-reset">
+                  <li class="tab-sublist__item">
+                    <h3 class="tab-sublist__title">Интернет-банки:</h3>
+                  </li>
+                  <li class="tab-sublist__item">Сбербанк Онлайн</li>
+                  <li class="tab-sublist__item">Альфа-Клик</li>
+                  <li class="tab-sublist__item">Тинькофф</li>
+                </ul>
+              </li>
+              <li class="col-12 col-lg-3">
+                <ul class="tab-sublist list-reset">
+                  <li class="tab-sublist__item">
+                    <h3 class="tab-sublist__title">Наличными в терминалах, банкоматах, салонах связи:</h3>
+                  </li>
+                  <li class="tab-sublist__item">
+                    <p class="tab-sublist__text">
+                      Оплата по&nbsp;коду платежа в&nbsp;терминале, банкомате или кассе банка, а&nbsp;также
+                      в&nbsp;салонах связи и
+                      системах денежных переводов&nbsp;&mdash; везде, где принимают платежи в&nbsp;пользу
+                      Яндекс.Кассы
+                      или Яндекс.Денег.
+                    </p>
+                  </li>
+                </ul>
+              </li>
             </ul>
             <div class="row">
               <div class="col-12 col-lg-6 tab__inner">

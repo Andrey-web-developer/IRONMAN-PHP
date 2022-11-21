@@ -15,142 +15,142 @@
           <h1 class="sports-food__title">спортивное питание</h1>
         </div>
         <ul class="row sports-list list-reset">
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/proteins.png" alt="Протеины">
                 <h2 class="sports-list__title">протеины</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/gainers.png" alt="Гейнеры">
                 <h2 class="sports-list__title">гейнеры</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/ampoules-and-shots.png" alt="Ампулы и шоты">
                 <h2 class="sports-list__title">ампулы и шоты</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/energy.png" alt="Энергетики">
                 <h2 class="sports-list__title">энергетики</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/bars.png" alt="Батончики">
                 <h2 class="sports-list__title">батончики</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/showbox-bars.png" alt="Батончики шоубокс">
                 <h2 class="sports-list__title">батончики шоубокс</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/l-carnitine.png" alt="L-карнитин">
                 <h2 class="sports-list__title">L-карнитин</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/burners.png" alt="Сжигатели">
                 <h2 class="sports-list__title">сжигатели</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/drinks.png" alt="Напитки">
                 <h2 class="sports-list__title">напитки</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/drinks-packaging.png" alt="Напитки упаковка">
                 <h2 class="sports-list__title">напитки упаковка</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/vitamins.png" alt="Витамины">
                 <h2 class="sports-list__title">витамины</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/food-substitutes.png" alt="Заменители питания">
                 <h2 class="sports-list__title">заменители питания</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/for-joints.png" alt="Для суставов">
                 <h2 class="sports-list__title">для суставов</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/amino-acids.png" alt="Аминокислоты">
                 <h2 class="sports-list__title">аминокислоты</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/anabolic-formulas.png" alt="Анаболические формулы">
                 <h2 class="sports-list__title">анаболические формулы</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/creatinine.png" alt="Креатинин">
                 <h2 class="sports-list__title">креатинин</h2>
               </a>
-            </li>
-          </div>
-          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-            <li class="sports-list__item">
+            </div>
+          </li>
+          <li class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="sports-list__item">
               <a href="#" class="sports-list__link">
                 <img src="images/sports-food/therapeutic-nutrition.png" alt="Лечебное питание и бады">
                 <h2 class="sports-list__title">лечебное питание и бады</h2>
               </a>
-            </li>
-          </div>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
